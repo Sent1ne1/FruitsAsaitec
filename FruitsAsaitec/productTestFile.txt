@@ -1,0 +1,4 @@
+﻿PRODUCT,PRICE
+Pear, 0.75
+Apple,0.9
+Orange,1
